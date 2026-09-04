@@ -2,15 +2,16 @@ id: I8995895C
 initial_creation_type: ebook
 source_metadata:
   id: MIN-PG-04
-  title: ༄༅། །སྙན་ངག་གི་ཚིག་རྒྱན་རབ་གསལ་སྣང་བ་བཞུགསསོ།།
+  title: སྙན་ངག་གི་ཚིག་རྒྱན་རབ་གསལ་སྣང་བ།
   author: མཛད་པ་པོ། སྨིན་གླིང་ཁྲི་པདྨ་འགྱུར་མེད་རྒྱ་མཚོ།
   authors: &id001
   - མཛད་པ་པོ། སྨིན་གླིང་ཁྲི་པདྨ་འགྱུར་མེད་རྒྱ་མཚོ།
   sku: MIN-PG-04
   cover: MIN-PG-04.jpg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: ༄༅། །སྙན་ངག་གི་ཚིག་རྒྱན་རབ་གསལ་སྣང་བ་བཞུགསསོ།།
+  title: སྙན་ངག་གི་ཚིག་རྒྱན་རབ་གསལ་སྣང་བ།
   authors: *id001
   sku: MIN-PG-04
   cover: MIN-PG-04.jpg
